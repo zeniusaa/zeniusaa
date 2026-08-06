@@ -45,6 +45,8 @@
 ### 📫 Let's Connect!
 
 - 📧 Email: **tugasrakazeniusa@gmail.com**
+- 💼 LinkedIn: [in/raka-zeniusa](https://www.linkedin.com/in/raka-zeniusa)
+- 📸 Instagram: [@zeniusaa](https://www.instagram.com/zeniusaa)
 - 🐙 GitHub: [github.com/zeniusaa](https://github.com/zeniusaa)
 
 <p align="center">
