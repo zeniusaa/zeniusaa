@@ -33,7 +33,7 @@
 ### &nbsp;`02`&nbsp; TECH STACK
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=nodejs,express,laravel,flutter,dart,python,tensorflow,mysql,prisma,git,github,vscode" alt="Tech stack icons"/>
+  <img src="https://skillicons.dev/icons?i=nodejs,express,laravel,flutter,dart,python,pytorch,mysql,prisma,git,github,vscode" alt="Tech stack icons"/>
 </p>
 
 ### &nbsp;`03`&nbsp; PROJECTS
@@ -41,11 +41,11 @@
 | # | Project | Deskripsi | Tech |
 |---|---------|-----------|------|
 | 1 | [**hamim-backend**](https://github.com/zeniusaa/hamim-backend) | Backend API aplikasi hafalan Quran interaktif — quiz, lives system, refresh token auth | Node.js, Express, Prisma, MySQL |
-| 2 | [**htel-system**](https://github.com/zeniusaa/htel-system) | Hotel management system — Tugas Akhir | Laravel, Blade |
+| 2 | [**htel-system**](https://github.com/zeniusaa/htel-system) | Sistem pengajuan & verifikasi Hak Tanggungan Elektronik (PPAT - Bank) — Tugas Akhir | Laravel, Blade, MySQL |
 | 3 | [**hahatix**](https://github.com/zeniusaa/hahatix) | Aplikasi pembelian tiket bioskop | Flutter, Dart |
-| 4 | [**Deteksi_Sampah_CNN**](https://github.com/zeniusaa/Deteksi_Sampah_CNN) | Deteksi jenis sampah dengan Convolutional Neural Network | Python, TensorFlow, CNN |
-| 5 | [**DeteksiCurahHujan_Damin**](https://github.com/zeniusaa/DeteksiCurahHujan_Damin) | Deteksi & analisis curah hujan dengan Machine Learning | Python, Jupyter |
-| 6 | [**41Santuary**](https://github.com/zeniusaa/41Santuary) | Website pemesanan tiket bioskop | HTML, CSS |
+| 4 | [**Deteksi_Sampah_CNN**](https://github.com/zeniusaa/Deteksi_Sampah_CNN) | Deteksi jenis sampah dengan Convolutional Neural Network (ResNet34) | Python, fastai (PyTorch), Streamlit |
+| 5 | [**DeteksiCurahHujan_Damin**](https://github.com/zeniusaa/DeteksiCurahHujan_Damin) | Prediksi tingkat stres mahasiswa (Random Forest + SMOTE) — Tugas Besar Data Mining | Python, scikit-learn, Streamlit |
+| 6 | [**41Santuary**](https://github.com/zeniusaa/41Santuary) | Website pemesanan tiket bioskop | HTML, CSS, jQuery |
 
 ### &nbsp;`04`&nbsp; SYSTEM STATUS
 
